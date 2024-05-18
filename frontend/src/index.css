@@ -1,0 +1,40 @@
+.blogpost{
+    list-style-type: none;
+  }
+  
+  .blogPostStyle{
+    background-color: antiquewhite;
+      padding-left: 10px;
+      padding-bottom: 10px;
+  }
+
+  .main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .sections{
+    margin-top: 15px;
+  }
+
+  .passwordSection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .formStyle{
+    background-color: antiquewhite;
+    padding: 40px;
+    margin-top: 100px;
+    border-radius: 15px;
+  }
+
+  .emailStyle{
+    margin-left: 22px;
+  }
+
+  .createpostName{
+    margin-left: 20px;
+  }
